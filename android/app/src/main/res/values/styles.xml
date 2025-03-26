@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash/Launch theme -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@null</item>
+    </style>
+    
+    <!-- Your normal app theme -->
+    <style name="NormalTheme" parent="Theme.MaterialComponents">
+        <!-- Customize your theme as needed -->
+    </style>
+
+    <!-- App name -->
+    <string name="app_name">OOMMAA</string>
+
+    <!-- Replace with your actual Facebook App ID -->
+    <string name="facebook_app_id">2066272003800341</string>
+
+    <!-- Required for Custom Tab login scheme (fb + your app id) -->
+    <string name="fb_login_protocol_scheme">fb2066272003800341</string>
+
+    <!-- (Optional) If you have a Facebook Client Token, define it here:
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+    -->
+    
+</resources>

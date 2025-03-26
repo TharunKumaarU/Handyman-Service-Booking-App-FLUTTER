@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1064398226059",
+    "project_id": "oommaa-ogs",
+    "storage_bucket": "oommaa-ogs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064398226059:android:b05050cf63a8c18b5c4a8e",
+        "android_client_info": {
+          "package_name": "com.example.project_meesai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064398226059-o17faarj770phvleahukofvq4l90qrgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_meesai",
+            "certificate_hash": "076ce99c6f1f41720c600b0efe41658cfc94f128"
+          }
+        },
+        {
+          "client_id": "1064398226059-dgbdrmm0lkr5eogukfgnate86jm7cbt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn_lXQIAXpW5FnEgkdn8noLpqW-ZBmUsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064398226059-dgbdrmm0lkr5eogukfgnate86jm7cbt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064398226059-ljvhjsf7qifbh83hsj3lqeo133af5o5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectMeesai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
